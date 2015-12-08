@@ -71,13 +71,6 @@ License
 
 ## This Fork	
 	
-### Videocapture
-
-https://youtu.be/AJjSzEBQZZ0
-
-### To submit
-
-https://classroom.github.com/assignment-invitations/d6c3a7398983fb5948cb2f7ca497591e 
 
 ### Clone
 
